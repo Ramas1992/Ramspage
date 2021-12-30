@@ -4,6 +4,8 @@ public class Sample {
 		int i=100;
 		int j=200;
 		int k =i+j;
+		System.out.println(i);
+		System.out.println(j);
 		System.out.println(k);
 	}
 
